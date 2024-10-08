@@ -1,0 +1,3 @@
+la solution logicielle doit répondre à un besoin. A partir
+des scénarios transmis, il vous faut le définir afin d’identifier les contraintes,
+les fonctionnalités…
