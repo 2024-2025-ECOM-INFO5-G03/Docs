@@ -1,5 +1,3 @@
-# Mes Meilleurs Menus
+# Docs
 
-## Spécification de l'application
-
-### Manger une bonne poire
+Répertoire contenant toute la documentation de notre projet
